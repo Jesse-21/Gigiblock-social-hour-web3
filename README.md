@@ -1,6 +1,6 @@
-# Hackathon: Social Hour
 
-#### Project Description : Web3Fiverr - A web3 freelance marketplace service, That connects talents to open projects or opportunities looking to hire. Accelerating the use of decentralized world. - Where value is given back to creator and users to take control and store user information secure, in decentralized mammer use StorageWizard Ipfs-Filecoin & NFT.Storage.
+
+#### Project Description : NFTask.me - A true web3 freelance marketplace service, That connects talent to open projects or opportunities. Where value is given back to creator and users to take control and store user information secure, in decentralized manner use StorageWizard Ipfs-Filecoin & NFT.Storage.
 
 #### Problems we are Solving 
 - High commission charge, long payment process
@@ -13,7 +13,7 @@
 - We created a smart contract that allows a client to mint opened projects or skilled person to mint their information of career.
 - That data is minted on the Polygon testnet, and than its store on a decentralized manner using IPFS and Nft.Storage.
 - Infomation is visiable to public, no extensive screening proces and Lengthy selection process, we are using the blockchain to pay only for gas fees on Polygon to process application and posted projects.
-- We than select our field of intrest or the talent for our project - Using XMTP (Extensible Message Transport Protoco) a open protocol and network for secure and private web3 messaging to connect and get more information on the applicants or the company - by only using you chain address to communicate. 
+- We than select our field of interest or the talent for our project - Using XMTP (Extensible Message Transport Protoco) an open protocol and network for secure and private web3 messaging to connect and get more information on the applicants or the company - by only using your blockchain address to communicate. 
 
 
 #### Building Stack
