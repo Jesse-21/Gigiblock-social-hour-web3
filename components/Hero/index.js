@@ -27,11 +27,11 @@ export default function SplitScreen() {
                 color={HeaderTextColo2}
                 mr={4}
               >
-                GigiBlock,
+                NFtask(.Me),
               </Text>
 
               <Text fontFamily="monospace" color={HeaderTextColor} as={"span"}>
-                connecting the world, bring talent, Working together..
+                connecting talent with web3 projects, one task at a time...
               </Text>
             </Heading>
             <Text
@@ -39,9 +39,9 @@ export default function SplitScreen() {
               fontSize={{ base: "md", lg: "2xl" }}
               color={SubHeaderTextColor}
             >
-              A web3 freelance marketplace service - That connects talents to
-              open projects, showcasing opportunities for hire. Accelerating the
-              use of decentralized storage.
+              A true web3 freelance marketplace service - That connects talent to
+              open projects, showcasing opportunities for success. Accelerating the
+              use of decentralized storage in new ways.
             </Text>
             <Stack direction={{ base: "column", md: "row" }} spacing={4}>
               <Button
